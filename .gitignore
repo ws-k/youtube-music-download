@@ -1,0 +1,20 @@
+# OMC internal state
+.omc/
+
+# Python
+backend/venv/
+backend/venv312/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/www.youtube.com_cookies.txt
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.env
+
+# OS
+.DS_Store
+*.log

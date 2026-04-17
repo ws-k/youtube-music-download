@@ -1,0 +1,6 @@
+venv/
+venv312/
+__pycache__/
+*.pyc
+.env
+www.youtube.com_cookies.txt
